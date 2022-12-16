@@ -652,6 +652,13 @@ footer .copyright{
     height: 100%;
     border-radius: 20px;
 }
+#about-app h1 a {
+    color: rgba(0, 89, 255, 0.733);
+    text-decoration: none;
+}
+#about-app h1 a:hover{
+    text-decoration: underline;
+}
 
 /* Contact Page */
 
