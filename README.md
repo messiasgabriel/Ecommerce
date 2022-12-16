@@ -3,7 +3,7 @@
 <h1 align="center">Ecommerce</h1>
 
 <div align="center">
-   Ecommerce with multiple pages.
+   Ecommerce template with multiple pages.
 </div>
 
 <div align="center">
