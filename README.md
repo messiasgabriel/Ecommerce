@@ -3,7 +3,7 @@
 <h1 align="center">Ecommerce</h1>
 
 <div align="center">
-   Ecommerce template with multiple pages.
+   Ecommerce template com multiplas paginas feito através do canal @Tech2etc.
 </div>
 
 <div align="center">
